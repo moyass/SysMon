@@ -1,5 +1,10 @@
  # System-Application-Monitor
  COMP3000 - Final Project
+The goal of this project was to provide laptop users a better System Monitor. We wanted to provide a simple and easy to use application that also informed the user about a process that is using too much memory and if possibly it could have a memory leak. 
+
+In addition, we also provided features that allowed the user to utilise multiple power consumption profiles to either allow them to use the full potential off their processor or help them extend their battery usage.
+
+This project was developed in C/C++ in conjunction with Qt for the Graphical User interface. It is possible to use the program in console only mode, however. No additional packages were used. The intention was to provide a bare bone experience in the sense that any user could install this program and only need this program with no dependencies (aside from Qt).
 
 ## BUILDING REQUIREMENTS
 #### libprocps
